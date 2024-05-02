@@ -4,6 +4,19 @@ This repo includes the assignments and lectures conducted in the Data Analytics 
 
 The assignments in this repository are designed to reinforce your understanding of the concepts covered in the lectures. They will challenge you to apply your knowledge to real-world datasets, allowing you to practice data cleaning, exploratory data analysis, hypothesis testing, and predictive modeling. 
 
+# GitHub Structure:
+The GitHub repository is structured as below:
+```
+├── data
+  ├── [data files] 
+├── Lecture Videos
+   ├── [Link to Lectures]    
+├── Assignments
+  ├── [Assignment Templates] 
+├── requirements.txt
+├── README.md
+└── [other relevant files]
+```
 # Instructions to Students
 
 1) Log in to GitHub.
