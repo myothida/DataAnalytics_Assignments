@@ -1,16 +1,28 @@
 # DataAnalytics_Assignments
 
-This repo includes the assignments and lectures conducted in the Data Analytics Course. This course provides you knowledge and skills for an understanding of data manipulation, analysis, and visualization. Throughout the course, you will be introduced to various tools and techniques used in the field of data analytics, such as Python programming, SQL querying, statistical analysis, machine learning algorithms, and data visualization libraries like Matplotlib and Seaborn.
+This repo includes the assignments and lectures conducted in the Data Analytics Course. This course provides you knowledge and skills for an understanding of data manipulation, analysis, and visualization. The assignments in this repository are designed to reinforce your understanding of the concepts covered in the lectures. They will challenge you to apply your knowledge to real-world datasets, allowing you to practice data cleaning, exploratory data analysis, hypothesis testing, and predictive modeling. 
 
-The assignments in this repository are designed to reinforce your understanding of the concepts covered in the lectures. They will challenge you to apply your knowledge to real-world datasets, allowing you to practice data cleaning, exploratory data analysis, hypothesis testing, and predictive modeling. 
+# Lecture Videos
+
+Below is a list of all the lecture videos for this course:
+
+1. [Lecture 1: Introduction to Data Analytics](https://youtu.be/HwEGNYqU8G0)
+2. [Lecture 2: Data Understanding](https://youtu.be/WJbAhirOIig)
+3. [Lecture 3: Data Cleaning Techniques](https://youtu.be/tXumQ1rBgbc)
+4. [Lecture 4: Data Visualization](https://youtu.be/dTNePAQhYic)
+5. [Lecture 5: Colors for data](https://youtu.be/e7JiUoaDWMQ)
+6. [Project Example: Course Evaluation](https://youtu.be/AmBy3jgO-pg)
+7. [Project Example: Job Demand Analysis](https://youtu.be/GixSk0kZi1c)
+
+Feel free to click on the links to access the respective lecture videos.
+More videos are available in the [course playlist] (https://www.youtube.com/playlist?list=PLVJBFnpmHjrYnRJIbEVwUB5OZuRu5z0zG)
+
 
 # GitHub Structure:
 The GitHub repository is structured as below:
 ```
 ├── data
-  ├── [data files] 
-├── Lecture Videos
-   ├── [Link to Lectures]    
+  ├── [data files]   
 ├── Assignments
   ├── [Assignment Templates] 
 ├── requirements.txt
