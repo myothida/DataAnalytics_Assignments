@@ -9,7 +9,8 @@ The assignments in this repository are designed to reinforce your understanding 
 1) Log in to GitHub.
 2) Navigate to the project.
 3) In the top-right corner of the page, click Fork.
-![image](https://github.com/myothida/DataAnalytics_Assignments/assets/88795729/066329b8-14b2-4a9b-bc83-348cd9aebcdb)
+![image](https://github.com/myothida/DataAnalytics_Assignments/assets/88795729/e226ec2b-ffcf-4c5d-946f-6e1a63150953)
+
 
 
 5) Clone the repository to your local computer.
