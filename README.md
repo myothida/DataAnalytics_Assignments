@@ -15,7 +15,9 @@ Below is a list of all the lecture videos for this course:
 7. [Project Example: Job Demand Analysis](https://youtu.be/GixSk0kZi1c)
 
 Feel free to click on the links to access the respective lecture videos.
-More videos are available in the [course playlist] (https://www.youtube.com/playlist?list=PLVJBFnpmHjrYnRJIbEVwUB5OZuRu5z0zG)
+More videos are available in the 
+1. [course playlist] (https://www.youtube.com/playlist?list=PLVJBFnpmHjrYnRJIbEVwUB5OZuRu5z0zG)
+2. [Project Playlist] (https://www.youtube.com/playlist?list=PLVJBFnpmHjrau_34h3pK3Z-W27F4RUWky)
 
 
 # GitHub Structure:
