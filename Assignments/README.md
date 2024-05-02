@@ -53,3 +53,8 @@ Input datasets: DA_Tech.csv
 
 ### Objective
 The objective of this exercise is to identify and demonstrate whether the participants has improved in the relevant technical skills related to data anlaytics. 
+
+## Exercise 05: Create a dashboard (Optional)
+
+### Objective
+The objective of this exercise is to create a dashboard that summarizes the results from Ex 1 to Ex 4.  
