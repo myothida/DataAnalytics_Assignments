@@ -9,7 +9,8 @@ The assignments in this repository are designed to reinforce your understanding 
 1) Log in to GitHub.
 2) Navigate to the project.
 3) In the top-right corner of the page, click Fork.
-![Fork Button](https://github.com/myothida/mmdt-da-project/assets/88795729/d299edb3-f20a-477e-bc93-d79f03d2d835)
+![image](https://github.com/myothida/DataAnalytics_Assignments/assets/88795729/066329b8-14b2-4a9b-bc83-348cd9aebcdb)
+
 
 5) Clone the repository to your local computer.
 
