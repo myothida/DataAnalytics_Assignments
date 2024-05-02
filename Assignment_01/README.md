@@ -21,6 +21,23 @@ The objective of this project is to analyze data from participants in the traini
 ## Deliverables
 - Insights and recommendations to improve the effectiveness and outcomes of future training workshop series.
 
+## GitHub folder infrastructure
+Follow the infrastrucre while saving the results. 
+```
+- Assignment_01
+  ├── code
+  │   ├── code_file1.ipynb
+  │   ├── code_file2.py
+  │   └── ...
+  ├── data
+  │   ├── data_file1.csv
+  │   ├── data_file2.csv
+  │   └── ...
+  └── results
+      ├── result_file1.jpg
+      ├── result_file2.jpg
+      └── ...
+```
 
 ## Exercise 01: Demo-graphic Analysis 
 
