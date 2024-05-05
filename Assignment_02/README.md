@@ -1,4 +1,4 @@
-# Data Analytics Project: Exploring Factors for Successful Completion of Training Workshop Series
+# Data Analytics Project: Understanding Dropout and Improving Participation in Online Course Applications
 
 ## Overview
 Despite a significant number of applicants, there is a notable decline in attendance at the entrance exams, with only half of the applicants participating. By analyzing factors contributing to this dropout, we aim to uncover insights that can inform strategies to improve the overall commitment to the application process.
