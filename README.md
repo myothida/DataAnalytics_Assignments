@@ -38,14 +38,8 @@ The GitHub repository is structured as below:
 3) In the top-right corner of the page, click Fork.
 ![image](https://github.com/myothida/DataAnalytics_Assignments/assets/88795729/e226ec2b-ffcf-4c5d-946f-6e1a63150953)
 
-
-
-5) Clone the repository to your local computer.
-
-**Before creating the pull request or cloning, it's recommended to sync your forked repository with the latest changes from the original repository.**
-
-5) Make the necessary edits as per instructions.
-   
-7) Commit changes.
+5) Clone the repository to your local computer. Before creating the pull request or cloning, it's recommended to sync your forked repository with the latest changes from the original repository.
+7) Make the necessary edits as per instructions.  
+8) Commit changes.
 
 
