@@ -64,14 +64,3 @@ Evaluate metrics such as open rates, click-through rates, and response rates for
 ### Feedback Collection:
 Collect feedback from applicants regarding their preferred communication channels and any suggestions for improvement.
 
-## Exercise 04: Identifying Barriers and Challenges
-
-### Stakeholder Interviews:
-Conduct interviews with applicants who did not proceed to the entrance examination stage to gather qualitative insights.
-Explore any barriers or challenges they encountered during the transition from application to entrance examination.
-### Data Analysis:
-Analyze interview transcripts or qualitative data to identify common themes and patterns related to barriers and challenges.
-Categorize the identified barriers into distinct groups (e.g., logistical barriers, motivational barriers, technical barriers).
-### Recommendations:
-Based on the analysis, propose recommendations for addressing the identified barriers and challenges to improve the application process and increase participation rates.
-
