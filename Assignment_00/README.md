@@ -1,4 +1,4 @@
-# Data Analytics Projects: 
+# Data Analytics Projects for GED
 
 ## Overview
 Based on the completion of GED training for two batches of students through free sponsorship, this project aims to leverage data analytics to evaluate various aspects of the program's impact, effectiveness, and participant demographics.
