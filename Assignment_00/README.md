@@ -9,7 +9,7 @@ The objective of this project is to analyze data related to the GED training pro
 ## Project 01: Demographic Analysis of Participants
 
 ### Description
-This project will focus on understanding the demographics of students who participated in the GED training program. By analyzing demographic data, we can identify which groups benefited the most from the program and where there may be gaps in outreach or support.
+This project will focus on understanding the demographics of students who participated in the GED training program. By examining key demographic factors, we hope to uncover patterns or trends that may influence participants' levels of commitment and engagement with the program. Understanding these patterns will allow us to identify which demographic groups benefited the most and pinpoint areas where outreach or support could be improved for future programs.
 
 ### Data Points
 - Age
@@ -25,26 +25,30 @@ This project will focus on understanding the demographics of students who partic
 
 ### Expected Outcomes
 - Insights into the demographic composition of participants.
-- Identification of underrepresented groups and areas for targeted outreach.
-- Recommendations for tailoring future programs to better meet the needs of diverse populations.
+- Insights into how different demographic groups vary in their commitment to and engagement with the program.
+- Identification of underserved groups or gaps in participation that need attention.
+- Data-driven recommendations for tailoring future GED programs to better meet the needs of diverse populations, with an emphasis on improving outreach and support mechanisms.
 
 ## Project 02: Post-Training Knowledge Assessment
 ### Description
-This project aims to evaluate the knowledge and skills acquired by GED students following the completion of the training program. By analyzing post-training assessment data, we can assess the effectiveness of the GED program in enhancing students' academic skills and their readiness for the GED exam.
+This project aims to evaluate the knowledge and skills acquired by GED students following the completion of the training program. . By analyzing both pre-training (entrance scores) and post-training assessment data, we can evaluate the effectiveness of the program in enhancing students' academic abilities and their readiness for the GED exam. Comparing pre- and post-training data will provide insights into individual student growth and the overall impact of the program.
 
 ### Data Points
+- Pre-training (entrance) scores
 - Post-training assessment scores
 - Subject areas covered (math, science, RLA, Social Studies.)
 - Student feedback on perceived knowledge gained
 - Attendance and participation rates
 ### Methodology
 - Administer post-training assessments to measure knowledge acquisition after completing the program.
-- Collect qualitative feedback from students regarding their perceived improvements in knowledge and skills.
-- Analyze the post-training assessment scores to identify overall performance trends and areas of strength or weakness.
+- Collect quantitative/qualitative feedback from students regarding their perceived improvements in knowledge and skills.
+- Compare pre- and post-training scores to assess individual and group progress across different subject areas.
+- Identify patterns in knowledge growth, and correlate those with attendance, participation rates, and student feedback.
 - Use visualizations to present the findings, highlighting any correlations between attendance, participation, and assessment scores.
 ### Expected Outcomes
-- Understanding of the knowledge gained by participants as a result of the training program.
-- Insights into specific subject areas where students performed well or faced challenges.
+- Comprehensive understanding of knowledge gained by participants, measured by improvements from pre- to post-training.
+- Insights into subject areas where students showed significant improvement or encountered challenges.
+- Identification of correlations between attendance/participation and academic performance.
 - Recommendations for program enhancements based on assessment results and student feedback to improve future training sessions.
 
 ## Project 03: Feedback and Satisfaction Survey Analysis
