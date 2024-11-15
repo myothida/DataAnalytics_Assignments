@@ -11,7 +11,7 @@ Note: This project is part of **ongoing research conducted by Myo Thida** on pub
 - Provide actionable recommendations to support gender equity and the safety of women in politics.
 
 ### Data Points
-CData will be collected through secondary sourcess:
+Data will be collected through secondary sourcess:
 - **Demographics**: Age, region, political affiliation, and roles held by women in politics.
 - **Violence Reports**: Types, frequency, and severity of violence (physical, verbal, or cyber) targeting women in politics.
 
