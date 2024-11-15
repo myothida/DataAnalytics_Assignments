@@ -1,4 +1,4 @@
-# DataAnalytics_Assignments
+# DataAnalytics_Projects
 
 This repo includes the assignments and lectures conducted in the Data Analytics Course. This course provides you knowledge and skills for an understanding of data manipulation, analysis, and visualization. The assignments in this repository are designed to reinforce your understanding of the concepts covered in the lectures. They will challenge you to apply your knowledge to real-world datasets, allowing you to practice data cleaning, exploratory data analysis, hypothesis testing, and predictive modeling. 
 
