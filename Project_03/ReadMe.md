@@ -4,7 +4,7 @@
 Despite setbacks in Myanmar, the country's youth have shown remarkable resilience and determination in establishing themselves within the software development industry. Despite challenges, they have managed to secure significant positions within the sector.
 
 ## Objective
-The objective of this project is to conduct an industry-wide survey that offers a comprehensive overview of the state of Myanmar's developers. By gathering data and insights, this survey aims to support newcomers in understanding the field and navigating their way into successful careers within the industry.
+The objective of this project is to conduct an industry-wide survey that offers a comprehensive overview of the state of Myanmar's developers. By gathering data and insights, this project aims to support newcomers in understanding the field and navigating their way into successful careers within the industry.
 
 ## References
 - https://www.tokyodev.com/insights/2022-developer-survey
