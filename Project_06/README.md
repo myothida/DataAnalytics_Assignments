@@ -16,8 +16,8 @@ Data will be collected through secondary sourcess:
 - **Violence Reports**: Types, frequency, and severity of violence (physical, verbal, or cyber) targeting women in politics.
 
 ### Methodology
-- **Parliamentary Data**: Public datasets on Members of Parliament (MPs) from different countries, including gender representation and political roles.
-- **PVTW dataset**: Public datasets on violence against women in politics.
+- **Parliamentary Data**: Public datasets on Members of Parliament (MPs) from different countries, including gender representation and political roles. (https://data.ipu.org/women-ranking/)
+- **PVTW dataset**: Public datasets on violence against women in politics.(https://acleddata.com/political-violence-targeting-women/)
 - **Descriptive Analysis**:  Use charts and graphs to identify trends, patterns, and differences across regions or demographics.
 
 ### Expected Outcomes
