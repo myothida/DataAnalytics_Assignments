@@ -26,7 +26,7 @@ Collected through surveys or interviews:
 - Insights into Sentiment: A clear breakdown of positive, negative, and neutral perceptions of AI in education.
 - Insights into how different demographic groups vary in their perception to and engagement with the AI tools in education.
 - Identify public concerns, such as ethical challenges, accessibility issues, or the impact on educators.
-- ata-driven suggestions for **policymakers**, **educational institutions**, and **AI developers**.
+- Data-driven suggestions for **policymakers**, **educational institutions**, and **AI developers**.
 
 ### Remark
 Although this project will be completed within a month, its findings could lead to further research or a publication in the future.
